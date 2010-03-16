@@ -1,0 +1,3 @@
+export(cthresh, find.parameters, test.dataCT, filter.select, make.dwwt)
+import(wavethresh)
+useDynLib(cthresh)
